@@ -1,2 +1,2 @@
 Online Examination System
-Exam Status: Pending
+Exam Status: Active
